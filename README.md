@@ -1,2 +1,2 @@
 # Multiplayer-Game
-My first multiplayer game made with python using socket and pygam,e
+My first multiplayer game made with python using socket and pygame
